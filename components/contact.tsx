@@ -5,10 +5,10 @@ import { Github, Linkedin, Mail, Twitter } from "lucide-react"
 
 export function Contact() {
   const contacts = [
-    { icon: Mail, label: "Email", value: "hello@keshav.dev", href: "mailto:hello@keshav.dev" },
-    { icon: Github, label: "GitHub", value: "@keshavdev", href: "#" },
-    { icon: Linkedin, label: "LinkedIn", value: "keshav", href: "#" },
-    { icon: Twitter, label: "Twitter", value: "@keshavdev", href: "#" },
+    { icon: Mail, label: "Email", value: "Keshav", href: "mailto:keshavjais1605@gmail.com" },
+    { icon: Github, label: "GitHub", value: "@Keshav1605", href: "https://github.com/keshav1605" },
+    { icon: Linkedin, label: "LinkedIn", value: "Keshav Jaiswal", href: "https://www.linkedin.com/in/keshav-jaiswal16" },
+    { icon: Twitter, label: "Twitter", value: "@Keshav", href: "https://twitter.com/keshavdev_" },
   ]
 
   return (
@@ -59,7 +59,8 @@ export function Contact() {
           viewport={{ once: true }}
           className="text-center mb-16"
         >
-          <Button className="bg-white text-black hover:bg-gray-200 px-8 py-6 text-base font-semibold rounded-lg">
+          <Button className="bg-white text-black hover:bg-gray-200 px-8 py-6 text-base font-semibold rounded-lg"
+            onClick={() => { window.location.href = "mailto:keshavjais1605@gmail.com"; }}>
             Start a Project
           </Button>
         </motion.div>
@@ -72,7 +73,7 @@ export function Contact() {
           viewport={{ once: true }}
           className="text-center pt-8 border-t border-gray-800"
         >
-          <p className="text-gray-500 text-sm">Built with React, Next.js, and Tailwind CSS. Deployed on Vercel.</p>
+          <p className="text-gray-500 text-sm">Built with Coffee and Bugs😭</p>
           <p className="text-gray-600 text-xs mt-2">© 2025 Keshav. All rights reserved.</p>
         </motion.div>
       </div>

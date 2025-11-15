@@ -4,9 +4,21 @@ import { Code2, Palette, Zap } from "lucide-react"
 
 export function About() {
   const skills = [
-    { icon: Code2, title: "Development", items: ["React", "Next.js", "TypeScript", "Node.js"] },
-    { icon: Palette, title: "Design", items: ["UI/UX", "Tailwind CSS", "Framer Motion", "3D Web"] },
-    { icon: Zap, title: "Performance", items: ["Web Optimization", "API Design", "Database", "DevOps"] },
+    {
+      icon: Code2,
+      title: "Development",
+      items: ["Learning Java", "Basic HTML & CSS", "JavaScript fundamentals", "Problem solving"],
+    },
+    {
+      icon: Palette,
+      title: "Design",
+      items: ["Simple layouts", "Color & typography basics", "Figma exploration", "Sketching ideas"],
+    },
+    {
+      icon: Zap,
+      title: "Growth",
+      items: ["Responsive pages", "Performance basics", "Accessibility awareness", "Eager to learn"],
+    },
   ]
 
   return (

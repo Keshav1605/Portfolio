@@ -6,56 +6,56 @@ export const certificates = [
     link: "https://trainings.internshala.com/s/v/3768910/8018e97a",
   },
   {
-    title: "Web Development Bootcamp",
-    organization: "CodeWithHarry",
-    date: "July 2025",
-    link: "https://example.com/certificate",
+    title: "Generative AI master workshop",
+    organization: "OpenAI & NxtWave",
+    date: "September 2025",
+    link: "https://openai-buildathon.nxtwave.tech/certificate?cid=R3JBHKIUYS",
   },
   {
-    title: "Smart India Hackathon 2025 Participant",
-    organization: "Govt. of India",
-    date: "2025",
-    link: "https://example.com/hackathon",
+    title: "Solution architect job simulation",
+    organization: "AWS & Forage",
+    date: "March 2025",
+    link: "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/pmnMSL4QiQ9JCgE3W/kkE9HyeNcw6rwCRGw_pmnMSL4QiQ9JCgE3W_eZSbp8uQ7hrEmSPnK_1743098757565_completion_certificate.pdf",
   },
   {
-    title: "React Advanced Patterns",
-    organization: "Frontend Masters",
+    title: "C++ Programming Course",
+    organization: "GeeksforGeeks",
     date: "June 2025",
-    link: "https://example.com/certificate",
+    link: "https://www.geeksforgeeks.org/certificate/6e7ddb72f22faa5ba6b3fc67ac79adf8?utm_source=socials&utm_medium=cc_link",
   },
-  {
-    title: "Node.js & Express Mastery",
-    organization: "Udemy",
-    date: "May 2025",
-    link: "https://example.com/certificate",
-  },
-  {
-    title: "TypeScript Professional",
-    organization: "Scrimba",
-    date: "April 2025",
-    link: "https://example.com/certificate",
-  },
+  // {
+  //   title: "Node.js & Express Mastery",
+  //   organization: "Udemy",
+  //   date: "May 2025",
+  //   link: "https://example.com/certificate",
+  // },
+  // {
+  //   title: "TypeScript Professional",
+  //   organization: "Scrimba",
+  //   date: "April 2025",
+  //   link: "https://example.com/certificate",
+  // },
 ]
 
 export const achievements = [
   {
-    title: "FeelWell AI",
-    description: "AI-driven mental health platform for students",
+    title: "Multiple Hackathon Finalist",
+    description: "Recognized in several hackathons for innovative solutions.",
+    icon: "trophy",
+  },
+  {
+    title: "Junior Developer at Elite Coders",
+    description: "got position as a Junior Developer at Elite Coders.",
     icon: "lightbulb",
   },
   {
-    title: "Snap-a-Fact",
-    description: "AI Tourism Assistant using CLIP + GPT",
-    icon: "camera",
-  },
-  {
-    title: "Full-stack Developer",
-    description: "Proficient in React, Supabase, Node.js, Tailwind, and TypeScript",
+    title: "vibe coder",
+    description: "Built and deployed full-stack applications using modern web technologies.",
     icon: "code",
   },
-  {
-    title: "Smart India Hackathon 2025 Finalist",
-    description: "Project: Awaaz – Safe Reporting Platform",
-    icon: "trophy",
-  },
+  // {
+  //   title: "jcndjndcjn",
+  //   description: "Project: Awaaz – Safe Reporting Platform",
+  //   icon: "trophy",
+  // },
 ]
