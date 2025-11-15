@@ -21,7 +21,7 @@ export function Contact() {
           viewport={{ once: true }}
           className="text-center mb-16"
         >
-          <h2 className="text-4xl sm:text-5xl font-bold mb-4">Let's Connect</h2>
+          <h2 className="text-4xl sm:text-5xl font-bold mb-4 text-white">Let's Connect</h2>
           <p className="text-gray-400 text-lg mb-8">
             Have a project in mind or just want to chat? Feel free to reach out through any of these channels.
           </p>

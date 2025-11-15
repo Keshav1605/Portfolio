@@ -22,7 +22,7 @@ export function Achievements() {
           viewport={{ once: true }}
           className="text-center mb-16"
         >
-          <h2 className="text-4xl sm:text-5xl font-bold mb-4">Achievements & Highlights</h2>
+          <h2 className="text-4xl sm:text-5xl font-bold mb-4 text-white">Achievements & Highlights</h2>
           <p className="text-gray-400 text-lg">Key milestones and notable accomplishments</p>
         </motion.div>
 

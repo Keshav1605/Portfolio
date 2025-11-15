@@ -31,7 +31,7 @@ export function About() {
           viewport={{ once: true }}
           className="text-center mb-16"
         >
-          <h2 className="text-4xl sm:text-5xl font-bold mb-4">About Me</h2>
+          <h2 className="text-4xl sm:text-5xl font-bold mb-4 text-white">About Me</h2>
           <p className="text-gray-400 text-lg max-w-2xl mx-auto leading-relaxed">
             I’m a curious learner who loves turning ideas into simple, meaningful projects.
             Currently diving into Java while exploring how code and design come together.

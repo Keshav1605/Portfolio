@@ -15,7 +15,7 @@ export function Certificates() {
           viewport={{ once: true }}
           className="text-center mb-16"
         >
-          <h2 className="text-4xl sm:text-5xl font-bold mb-4">Certifications & Courses</h2>
+          <h2 className="text-4xl sm:text-5xl font-bold mb-4 text-white">Certifications & Courses</h2>
           <p className="text-gray-400 text-lg">Professional credentials and continuous learning</p>
         </motion.div>
 

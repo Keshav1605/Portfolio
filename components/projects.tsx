@@ -60,7 +60,7 @@ export function Projects() {
           viewport={{ once: true }}
           className="text-center mb-16"
         >
-          <h2 className="text-4xl sm:text-5xl font-bold mb-4">Featured Projects</h2>
+          <h2 className="text-4xl sm:text-5xl font-bold mb-4 text-white">Featured Projects</h2>
           <p className="text-gray-400 text-lg">A selection of my latest work and side projects</p>
         </motion.div>
 
